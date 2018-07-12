@@ -1,0 +1,13 @@
+import './components/components.html';
+import './components/menu.html';
+import './layout/layout.html';
+import './pages/about.html';
+import './pages/blog-detail.html';
+import './pages/blog.html';
+import './pages/cart.html';
+import './pages/contact.html';
+import './pages/home-02.html';
+import './pages/home-03.html';
+import './pages/home.html';
+import './pages/product-detail.html';
+import './pages/product.html';

@@ -1,0 +1,15 @@
+{
+  "name": "ligerCommerce",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/runtime": "^7.0.0-beta.36",
+    "desandro-matches-selector": "^2.0.2",
+    "jquery": "^3.3.1",
+    "meteor-node-stubs": "^0.3.2",
+    "moment": "^2.22.2",
+    "popper.js": "^1.14.3"
+  }
+}
